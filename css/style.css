@@ -359,7 +359,7 @@ body {
 	padding:15px 20px;
 }
 select, input, textarea {
-  font-family: "Open Sans";
+  font-family: "Open Sans Regular";
   font-size: 15px;
   color: #222;
   -webkit-appearance: none; }
@@ -668,7 +668,7 @@ input:-webkit-autofill {
                 box-sizing: border-box; }
       .header__button {
         display: block;
-        background-image: url("http://freesportopt.ru/images/ico/menu.svg");
+        background-image: url("/images/hamburger.png");
         background-size: 100%;
         background-repeat: no-repeat;
         background-position: center;
@@ -776,7 +776,7 @@ input:-webkit-autofill {
         position: absolute;
         top: 20px;
         left: 25px;
-        background-image: url(http://freesportopt.ru/images/ico/close-menu.svg);
+        background-image: url(/images/krestik.png);
         background-size: 100%;
         width: 20px;
         height: 20px; }
@@ -899,7 +899,7 @@ input:-webkit-autofill {
       -webkit-transform: translateY(-50%);
           -ms-transform: translateY(-50%);
               transform: translateY(-50%);
-      background-image: url("http://freesportopt.ru/images/ico/phone-red.svg");
+     
       background-size: 100%;
       width: 22px;
       height: 22px; }
